@@ -14,10 +14,14 @@ Clone the repository: HTTPS: git clone https://github.com/Gael346/QuizEngine.git
 
 Or SSH: git clone git@github.com:Gael346/QuizEngine.git
 
-Enter the folder and run: cd QuizEngine
+Enter folder: cd QuizEngine/MathQuiz
 
+Linux / macOS: python3 MathQuiz.py
+
+Windows (PowerShell) python MathQuiz.py
+
+# Windows (PowerShell)
 python MathQuiz.py
-
 # Features
 - Create test quiz
 - Create normal quiz
