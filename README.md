@@ -35,7 +35,7 @@ This is a finished project
 
 # Contact
 Email: leomontsar@gmail.com
-Time zone: CET / CEST (Spain)
-Open to: small collaborations, code reviews...
+ Time zone: CET / CEST (Spain)
+ Open to: small collaborations, code reviews...
 
 This project is licensed under the MIT License — see the LICENSE file for details.
