@@ -10,18 +10,24 @@ since I needed a duplicate in a list within the dictionary. But then I realized 
 
 # Clone and run 
 Clone and Run
-Clone the repository: HTTPS: git clone https://github.com/Gael346/QuizEngine.git
-
-Or SSH: git clone git@github.com:Gael346/QuizEngine.git
-
-Enter folder: cd QuizEngine/MathQuiz
-
-Linux / macOS: python3 MathQuiz.py
-
-Windows (PowerShell) python MathQuiz.py
-
-# Windows (PowerShell)
+### Https
+```bash
+git clone https://github.com/Gael346/QuizEngine.git
+```
+### SSh
+```bash
+git clone git@github.com:Gael346/QuizEngine.git
+```
+## Run
+### Linux / macOS 
+```bash
+python3 MathQuiz.py
+```
+### Windows (PowerShell) 
+```bash
 python MathQuiz.py
+```
+
 # Features
 - Create test quiz
 - Create normal quiz
