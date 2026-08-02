@@ -19,6 +19,11 @@ git clone https://github.com/Gael346/QuizEngine.git
 git clone git@github.com:Gael346/QuizEngine.git
 ```
 ## Run
+
+```bash
+cd MathQuiz
+```
+
 ### Linux / macOS 
 ```bash
 python3 MathQuiz.py
